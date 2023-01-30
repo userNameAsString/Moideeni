@@ -13,3 +13,8 @@ u{
     justify-content:center;
     align-items:center; 
 }
+ul{
+    color:rgb(117, 190, 175);
+    font-size:150%; 
+    margin-left: 20%;
+}
